@@ -1,0 +1,16 @@
+.item-show {
+  background-color: rgb(238, 213, 101);
+  margin: 5px;
+  width: 40%;
+  text-align: center;
+  height: 40px;
+}
+
+.item-show:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.items {
+  height: 100px;
+}
